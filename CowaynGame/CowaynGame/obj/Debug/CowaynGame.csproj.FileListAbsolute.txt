@@ -1,0 +1,16 @@
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\bin\Debug\CowaynGame.exe.config
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\CowaynGame.csprojResolveAssemblyReference.cache
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\MainWindow.g.cs
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\Tile.g.cs
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\App.g.cs
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\CowaynGame_MarkupCompile.cache
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\CowaynGame_MarkupCompile.lref
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\bin\Debug\CowaynGame.exe
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\bin\Debug\CowaynGame.pdb
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\MainWindow.baml
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\Tile.baml
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\CowaynGame.g.resources
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\CowaynGame.Properties.Resources.resources
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\CowaynGame.csproj.GenerateResource.Cache
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\CowaynGame.exe
+c:\users\gadoy\documents\visual studio 2015\Projects\CowaynGame\CowaynGame\obj\Debug\CowaynGame.pdb
